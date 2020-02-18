@@ -644,17 +644,17 @@ a {
   background-size: cover;
   background-position: center center; }
 .bg-image--4 {
-  background-image: url(images/bg/4.jpg);
+  background-image: url(image/wellplaned/4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
 .bg-image--5 {
-  background-image: url(images/bg/5.jpg);
+  background-image: url(image/404/1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
 .bg-image--6 {
-  background-image: url(images/bg/6.jpg);
+  background-image: url(image/cu/1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -673,6 +673,22 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
+.bg-image--10 {
+background-image: url(image/yasin/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--11 {
+background-image: url(image/brosur/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--12 {
+background-image: url(image/looseleaf/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+
 
 /* spacing */
 .mt--20 {
