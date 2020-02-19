@@ -688,6 +688,46 @@ background-image: url(image/looseleaf/1.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center; }
+.bg-image--13 {
+background-image: url(image/polaroid/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--14 {
+background-image: url(image/binder/1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--15 {
+background-image: url(image/nb/spiral.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--16 {
+background-image: url(image/nb/binding.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--17 {
+background-image: url(image/nb/custom.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--18 {
+background-image: url(image/journal/journal.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--19 {
+background-image: url(image/nb/moleskin.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
+.bg-image--20 {
+background-image: url(image/cari/cariproduk.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center; }
 
 
 /* spacing */
